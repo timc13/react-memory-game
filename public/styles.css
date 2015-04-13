@@ -1,0 +1,25 @@
+#main {
+  margin: auto 5%;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  border: solid 1px black;
+  width: 5em;
+  height: 6.2em;
+  margin: 0 0.5em 1em 0.5em;
+}
+
+.card1 { background-image: url('images/colour1.gif'); }
+.card2 { background-image: url('images/colour2.gif'); }
+.card3 { background-image: url('images/colour3.gif'); }
+.card4 { background-image: url('images/colour4.gif'); }
+.card5 { background-image: url('images/colour5.gif'); }
+.card6 { background-image: url('images/colour6.gif'); }
+.card7 { background-image: url('images/colour7.gif'); }
+.card8 { background-image: url('images/colour8.gif'); }
+.card9 { background-image: url('images/cherry.jpeg'); }
+.card10 { background-image: url('images/lemon.jpeg'); }
+
+.card.hide { background-image: url('images/card_bg.gif'); }
